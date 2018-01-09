@@ -7,7 +7,7 @@
     }
   ],
   "license": "MIT",
-  "name": "html-error-codes",
+  "name": "vbpupil/html-error-codes",
   "desctiption": "HtmlErrCodes class which provides simple html error code descriptions based on error number ",
   "autoload": {
     "psr-4": {
