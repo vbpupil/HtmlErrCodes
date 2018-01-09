@@ -1,0 +1,15 @@
+{
+  "authors" : {
+    "name" : "Dean Haines",
+    "email" : "haiesdean@hotmail.com",
+    "role" : "Developer"
+  },
+  "license": "MIT",
+  "name" : "HtmlErrCdes",
+  "desctiption" : "HtmlErrCodes class which provides simple html error code descriptions based on error number ",
+  "autoload" : {
+    "psr-4" : {
+      "VbPupil\\" : "src/"
+    }
+  }
+}
