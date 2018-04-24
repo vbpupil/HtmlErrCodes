@@ -1,4 +1,8 @@
 {
+  "name": "vbpupil/html-error-codes",
+  "description": "HtmlErrCodes class which provides simple html error code descriptions based on error number",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "Dean Haines",
@@ -6,12 +10,9 @@
       "role": "Developer"
     }
   ],
-  "license": "MIT",
-  "name": "vbpupil/html-error-codes",
-  "desctiption": "HtmlErrCodes class which provides simple html error code descriptions based on error number ",
   "autoload": {
     "psr-4": {
-      "VbPupil\\": "src/"
+      "vbpupil\\": "src/"
     }
   }
 }

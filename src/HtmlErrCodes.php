@@ -2,10 +2,10 @@
 /**
  * @author    Dean Haines
  * @copyright Dean Haines, 2018, UK
- * @license   Proprietary See LICENSE.md
+ * @license   GPL-3.0-or-later
  */
 
-namespace VbPupil;
+namespace vbpupil;
 
 /**
  * Class HtmlErrCodes
